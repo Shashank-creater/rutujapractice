@@ -6,7 +6,7 @@ public class Demo {
 		System.out.println("Shashank gadgae's rutuja");
 		String s = "rutuja";
 		String s1 = "racha";
-		System.out.println();
+		System.out.println("Hi");
 		
 	}
 }
